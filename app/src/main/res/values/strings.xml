@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vježba2Zad1</string>
+    <string name="staticki_tekst">Dobar jutar!</string>
+    <string name="unos_teksta"></string>
+    <string name="tekst_gumba">Promijeni</string>
+    <string name="toast1">Promijenjeno. \nI ne kaže se jutar!</string>
+    <string name="toast2">Vraćeno!</string>
+</resources>
