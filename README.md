@@ -1,5 +1,5 @@
 # MAP-Labos-2
-Rješenje labosa iz predmeta Mobilne aplikacije VSITE studija.
+Rješenje labosa iz predmeta "Mobilne aplikacije" VSITE studija.
 
 ## Zadatak
 Zadatak ovih labosa je bio dodati dugme, kućicu za prikaz statičkog teksta te kućicu za unos teksta.
